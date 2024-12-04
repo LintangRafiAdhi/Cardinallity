@@ -1,3 +1,9 @@
+| Pertemuan 11  |  Pemrograman Berorientasi Objek  
+|-------|---------
+| NIM   | 312310697
+| Nama  | Lintang Rafi Adhi
+| Kelas | TI.23.A6
+
 # Cardinallity
 **Cardinality** adalah istilah yang digunakan dalam berbagai bidang, termasuk database, matematika, dan diagram UML, untuk menunjukkan **jumlah elemen** atau **hubungan antara elemen** dalam suatu konteks tertentu. Dalam konteks diagram kelas (UML) atau Entity-Relationship Diagram (ERD), **cardinality** menggambarkan **jumlah hubungan** yang dapat dimiliki suatu elemen dengan elemen lainnya.
 
@@ -380,4 +386,4 @@ public class main {
 
 **OUTPUT**
 
-![image]output.png
+![image](output.jpeg)
