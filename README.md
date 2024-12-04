@@ -378,4 +378,6 @@ public class main {
 
 ---
 
-Silakan salin penjelasan ini ke README GitHub Anda agar lebih mudah dipahami oleh orang lain! 🎉
+**OUTPUT**
+
+![image]output.png
